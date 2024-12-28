@@ -1,4 +1,4 @@
-## Data Science and Machine Learning Code for Learning Beginnner
+## Data Science and Machine Learning Code for Learning Beginner
 
 ---
 
@@ -22,6 +22,8 @@
     1. **Binary Classification**
     2. **Multi Class Classification**
     3. **Multi Label Classification**
-- **Unsupervised learning**
+- **Unsupervised learning (Soon)**
   - **Clustering Task**
-- **Reinforcement Learning**
+- **Reinforcement Learning (Soon)**
+- **Hyper Parameter Tunning (Soon)**
+- **Ensemble Method (Soon)**
